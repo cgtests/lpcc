@@ -1,0 +1,9 @@
+(A)10.Write a program to evaluate a given arithmetic expression using YACC specification.
+INPUT
+0.33*12-4-4+(3*2)
+
+commands - 
+
+bison -d calc.y
+flex calc.l
+gcc lex.yy.c calc.tab.c -o calc -lm

@@ -1,0 +1,9 @@
+(A)8.Write a program using LEX Tool, to implement a lexical analyzer for parts of speech for given English language without Symbol table.
+INPUT
+Dread it. Run from it. 
+   Destiny arrives all the same.
+
+usage - 
+lex english_lang_lexer.l 
+gcc lex.yy.c 
+./a.out 
