@@ -1,0 +1,6 @@
+(A)11.Write a program to evaluate a given variable name using YACC specification.
+SAMPLE INPUT
+pune
+PUNE
+Pune1
+pUNE_2  
