@@ -1,0 +1,6 @@
+INTERMEDIATE CODE
+LC = 100	(AD, 01)	(C, 100)
+LC = 100	(DL, 01)	(C, 01)
+LC = 101	(DL, 01)	(C, 01)
+	(AD, 02)
+LC = 102

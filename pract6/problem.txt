@@ -1,0 +1,19 @@
+(C)2. Write a program to generate Literal table of a two-pass Assembler for the given Assembly language source code.
+
+            START 300
+READ M
+  		READ N
+   	MOVER AREG, =’51'
+		MOVER BREG, =’61’
+            ADD AREG, BREG
+LOOP	MOVER CREG, M  
+		ADD  CREG, ='11'
+COMP CREG, N
+		BC LT, LOOP
+NEXT	SUB AREG, ='11'
+COMP AREG, N 
+BC  GT, NEXT
+STOP
+M		DS	1
+N		DS	1
+END
