@@ -1,0 +1,3 @@
+(D)11.Write a program to evaluate a given built-in functions using YACC specification.
+INPUT
+u= sin(12)+cos(12)

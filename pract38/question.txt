@@ -1,0 +1,4 @@
+(C)11.Write a program to evaluate a given built-in functions using YACC specification.
+INPUT
+u= sqrt(36)
+v = strlen("pune")

@@ -1,0 +1,66 @@
+(A)12.Write a program to generate three address code for the given simple expression.
+INPUT
+w = u*u - u*v+ v*v
+
+
+++++++++++++++++++++++++++++++++++++
+
+
+
+
+(42)
+(B)12.Write a program to generate three address code for the given simple expression.
+INPUT
+y=x*x + w-v / r+r
+
+
+++++++++++++++++++++++++++++++++++++
+
+
+(43)
+(C)12.Write a program to generate three address code for the given simple expression.
+INPUT
+w = u*u - u*v+ v*v
+
+
+++++++++++++++++++++++++++++++++++++
+
+
+(44)
+(D)12.Write a program to generate three address code for the given simple expression.
+INPUT
+t = o*a - o*b+ o*c
+
+
+++++++++++++++++++++++++++++++++++++
+
+
+
+
+(45)
+(E)12. Write a program to generate three address code for the given simple expression.
+INPUT
+t = j / k – y / u - i
+++++++++++++++++++++++++++++++++++++
+
+(46)
+(F)12.Write a program to generate three address code for the given simple expression.
+INPUT
+a = m * n - o – p / q
+++++++++++++++++++++++++++++++++++++
+
+
+
+(47)
+(G)12.Write a program to generate three address code for the given simple expression.
+INPUT
+a = f ^ r – u * f * t – p
+++++++++++++++++++++++++++++++++++++
+
+
+
+
+(48)
+(H)12.Write a program to generate three address code for the given simple expression.
+INPUT
+a = ( b*b + c*c ) * (p – q – r)
