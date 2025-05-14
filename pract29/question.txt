@@ -1,0 +1,7 @@
+(C)9.Write a program using LEX Tool, to implement a lexical analyzer for given C programming language without Symbol table.
+INPUT
+{
+int d=10,t=2;
+int s;
+s=d/t;
+}
