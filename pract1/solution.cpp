@@ -503,7 +503,7 @@ int main()
   }
 
   std::vector<std::string> assemblyLines;
-  std::ifstream asmFile("temp.asm");
+  std::ifstream asmFile("SAMPLE_input.txt");
   if (!asmFile.is_open())
   {
     std::cout << "Error: Could not open temp.asm for extended pass.\n";
