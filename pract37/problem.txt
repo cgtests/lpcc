@@ -1,0 +1,5 @@
+usage - 
+
+flex caseconv.l
+bison -d caseconv.y
+gcc lex.yy.c caseconv.tab.c -o casecon -lm
