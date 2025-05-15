@@ -4,3 +4,7 @@ pune
 PUNE
 Pune1
 pUNE_2  
+
+bison -d calc.y
+flex calc.l
+gcc lex.yy.c calc.tab.c -o calc -lm
