@@ -7,11 +7,12 @@ void yyerror(const char *s);
 extern int yylex();
 %}
 
-%token LOWERCASE UPPERCASE
-
 %union {
     char cval;
 }
+
+%token LOWERCASE UPPERCASE
+%type <cval> LOWERCASE UPPERCASE
 
 %%
 
