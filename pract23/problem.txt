@@ -4,6 +4,6 @@ Dread it. Run from it.
    Destiny arrives all the same.
 
 usage - 
-lex english_lang_lexer.l 
+lex english_lang_lexer.l or flex english_lang_lexer.l
 gcc lex.yy.c 
 ./a.out 
